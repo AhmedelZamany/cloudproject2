@@ -3,9 +3,4 @@ pandas
 matplotlib
 warnings
 sklearn
-train_test_split
-StandardScaler
-KNeighborsClassifier
-SVC
-DecisionTreeClassifier
-RandomForestClassifier
+
